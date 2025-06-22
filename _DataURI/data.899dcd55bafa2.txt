@@ -1,0 +1,1 @@
+chrome-extension://bojobppfploabceghnmlahpoonbcbacn/app/content-style.css
